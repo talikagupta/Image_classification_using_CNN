@@ -11,5 +11,5 @@ Here are the classes in the dataset, as well as 10 random images from each class
 
 
 **Results**: 
-* ANN had around 50% accuracy on the test set.
-* CNN had around 70% accuracy on the test set.
+* Simple Artificial Neural Network yielded 50% accuracy on the test set.
+* Convolutional Neural Network yielded 70% accuracy on the test set.
